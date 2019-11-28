@@ -35,7 +35,7 @@ app.delete('/deleteBook/:id',function(req,res){
 })
 app.post("/addBook",function(req,res){
   let book = req.body;
-  book.id = booksList.length+1;
+  book.id = booksList.length == 0 ? 1 : booksList[booksList.length - 1].id+1;
   console.log(book);
 	booksList.push(book);
 	res.json('OK');
