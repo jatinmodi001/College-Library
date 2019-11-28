@@ -1,0 +1,18 @@
+{
+  "booksList": [
+    {
+      "name": "Book1",
+      "author": "Author1",
+      "price": "999",
+      "desc": "",
+      "id": 1
+    },
+    {
+      "name": "Book2",
+      "author": "Author2",
+      "price": "1000",
+      "desc": "",
+      "id": 2
+    }
+  ]
+}
