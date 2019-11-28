@@ -1,8 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Screenshots
-<p float="left">
-<img src="pics/Screenshot 1.png" width="100" alt="Home"> <img src="pics/Screenshot 2.png" alt="Books" width="100">
+<p align="center">
+<img src="pics/Screenshot 1.png" style="width:80%" alt="Home"> <img src="pics/Screenshot 2.png" alt="Books" style="width:80%">
 </p>
 
 ## Available Scripts
