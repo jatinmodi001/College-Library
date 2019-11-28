@@ -1,8 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Screenshots
-
-![Home]("pics/Screenshot 1.png") ![Books]("pics/Screenshot 2.png")
+<p float="left">
+<img src="pics/Screenshot 1.png" width="100" alt="Home"> <img src="pics/Screenshot 2.png" alt="Books" width="100">
+</p>
 
 ## Available Scripts
 
